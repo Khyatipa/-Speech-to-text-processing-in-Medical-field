@@ -2,6 +2,7 @@ Paper link:
 [Group_05-Final_Report.pdf](https://github.com/Khyatipa/-Speech-to-text-processing-in-Medical-field/files/12581422/Group_05-Final_Report.pdf)
 
 Steps to run the code:
+
 Step 1) 
 Install the libraries pipwin, pyaudio, SpeechRecognition, and nltk.
 
